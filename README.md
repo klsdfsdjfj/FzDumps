@@ -1,4 +1,4 @@
-# FzDumps
+
 
 > I compiled all the dumps from [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) and [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) into two organised folders.
 
